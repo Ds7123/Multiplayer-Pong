@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int main(void) {
+int main(int argc,char* args[]) {
 	printf("TEST123");
 	return 0;
 }
